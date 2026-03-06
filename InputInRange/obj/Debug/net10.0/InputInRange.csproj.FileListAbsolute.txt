@@ -1,0 +1,15 @@
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\InputInRange\bin\Debug\net10.0\InputInRange.exe
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\InputInRange\bin\Debug\net10.0\InputInRange.deps.json
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\InputInRange\bin\Debug\net10.0\InputInRange.runtimeconfig.json
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\InputInRange\bin\Debug\net10.0\InputInRange.dll
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\InputInRange\bin\Debug\net10.0\InputInRange.pdb
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\InputInRange\obj\Debug\net10.0\InputInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\InputInRange\obj\Debug\net10.0\InputInRange.AssemblyInfoInputs.cache
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\InputInRange\obj\Debug\net10.0\InputInRange.AssemblyInfo.cs
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\InputInRange\obj\Debug\net10.0\InputInRange.csproj.CoreCompileInputs.cache
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\InputInRange\obj\Debug\net10.0\InputInRange.sourcelink.json
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\InputInRange\obj\Debug\net10.0\InputInRange.dll
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\InputInRange\obj\Debug\net10.0\refint\InputInRange.dll
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\InputInRange\obj\Debug\net10.0\InputInRange.pdb
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\InputInRange\obj\Debug\net10.0\InputInRange.genruntimeconfig.cache
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\InputInRange\obj\Debug\net10.0\ref\InputInRange.dll

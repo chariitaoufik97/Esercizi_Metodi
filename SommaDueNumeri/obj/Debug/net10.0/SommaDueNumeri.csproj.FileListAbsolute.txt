@@ -1,0 +1,15 @@
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\SommaDueNumeri\bin\Debug\net10.0\SommaDueNumeri.exe
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\SommaDueNumeri\bin\Debug\net10.0\SommaDueNumeri.deps.json
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\SommaDueNumeri\bin\Debug\net10.0\SommaDueNumeri.runtimeconfig.json
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\SommaDueNumeri\bin\Debug\net10.0\SommaDueNumeri.dll
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\SommaDueNumeri\bin\Debug\net10.0\SommaDueNumeri.pdb
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\SommaDueNumeri\obj\Debug\net10.0\SommaDueNumeri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\SommaDueNumeri\obj\Debug\net10.0\SommaDueNumeri.AssemblyInfoInputs.cache
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\SommaDueNumeri\obj\Debug\net10.0\SommaDueNumeri.AssemblyInfo.cs
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\SommaDueNumeri\obj\Debug\net10.0\SommaDueNumeri.csproj.CoreCompileInputs.cache
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\SommaDueNumeri\obj\Debug\net10.0\SommaDueNumeri.sourcelink.json
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\SommaDueNumeri\obj\Debug\net10.0\SommaDueNumeri.dll
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\SommaDueNumeri\obj\Debug\net10.0\refint\SommaDueNumeri.dll
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\SommaDueNumeri\obj\Debug\net10.0\SommaDueNumeri.pdb
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\SommaDueNumeri\obj\Debug\net10.0\SommaDueNumeri.genruntimeconfig.cache
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\SommaDueNumeri\obj\Debug\net10.0\ref\SommaDueNumeri.dll
