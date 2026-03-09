@@ -1,0 +1,15 @@
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\ArrayStats\bin\Debug\net10.0\ArrayStats.exe
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\ArrayStats\bin\Debug\net10.0\ArrayStats.deps.json
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\ArrayStats\bin\Debug\net10.0\ArrayStats.runtimeconfig.json
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\ArrayStats\bin\Debug\net10.0\ArrayStats.dll
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\ArrayStats\bin\Debug\net10.0\ArrayStats.pdb
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\ArrayStats\obj\Debug\net10.0\ArrayStats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\ArrayStats\obj\Debug\net10.0\ArrayStats.AssemblyInfoInputs.cache
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\ArrayStats\obj\Debug\net10.0\ArrayStats.AssemblyInfo.cs
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\ArrayStats\obj\Debug\net10.0\ArrayStats.csproj.CoreCompileInputs.cache
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\ArrayStats\obj\Debug\net10.0\ArrayStats.sourcelink.json
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\ArrayStats\obj\Debug\net10.0\ArrayStats.dll
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\ArrayStats\obj\Debug\net10.0\refint\ArrayStats.dll
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\ArrayStats\obj\Debug\net10.0\ArrayStats.pdb
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\ArrayStats\obj\Debug\net10.0\ArrayStats.genruntimeconfig.cache
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\ArrayStats\obj\Debug\net10.0\ref\ArrayStats.dll

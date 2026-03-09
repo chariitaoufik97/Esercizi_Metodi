@@ -1,0 +1,15 @@
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BubbleSorter\bin\Debug\net10.0\BubbleSorter.exe
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BubbleSorter\bin\Debug\net10.0\BubbleSorter.deps.json
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BubbleSorter\bin\Debug\net10.0\BubbleSorter.runtimeconfig.json
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BubbleSorter\bin\Debug\net10.0\BubbleSorter.dll
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BubbleSorter\bin\Debug\net10.0\BubbleSorter.pdb
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BubbleSorter\obj\Debug\net10.0\BubbleSorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BubbleSorter\obj\Debug\net10.0\BubbleSorter.AssemblyInfoInputs.cache
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BubbleSorter\obj\Debug\net10.0\BubbleSorter.AssemblyInfo.cs
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BubbleSorter\obj\Debug\net10.0\BubbleSorter.csproj.CoreCompileInputs.cache
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BubbleSorter\obj\Debug\net10.0\BubbleSorter.sourcelink.json
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BubbleSorter\obj\Debug\net10.0\BubbleSorter.dll
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BubbleSorter\obj\Debug\net10.0\refint\BubbleSorter.dll
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BubbleSorter\obj\Debug\net10.0\BubbleSorter.pdb
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BubbleSorter\obj\Debug\net10.0\BubbleSorter.genruntimeconfig.cache
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BubbleSorter\obj\Debug\net10.0\ref\BubbleSorter.dll

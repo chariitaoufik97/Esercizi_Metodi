@@ -1,0 +1,15 @@
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\FormattaPrezzo\bin\Debug\net10.0\FormattaPrezzo.exe
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\FormattaPrezzo\bin\Debug\net10.0\FormattaPrezzo.deps.json
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\FormattaPrezzo\bin\Debug\net10.0\FormattaPrezzo.runtimeconfig.json
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\FormattaPrezzo\bin\Debug\net10.0\FormattaPrezzo.dll
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\FormattaPrezzo\bin\Debug\net10.0\FormattaPrezzo.pdb
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\FormattaPrezzo\obj\Debug\net10.0\FormattaPrezzo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\FormattaPrezzo\obj\Debug\net10.0\FormattaPrezzo.AssemblyInfoInputs.cache
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\FormattaPrezzo\obj\Debug\net10.0\FormattaPrezzo.AssemblyInfo.cs
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\FormattaPrezzo\obj\Debug\net10.0\FormattaPrezzo.csproj.CoreCompileInputs.cache
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\FormattaPrezzo\obj\Debug\net10.0\FormattaPrezzo.sourcelink.json
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\FormattaPrezzo\obj\Debug\net10.0\FormattaPrezzo.dll
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\FormattaPrezzo\obj\Debug\net10.0\refint\FormattaPrezzo.dll
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\FormattaPrezzo\obj\Debug\net10.0\FormattaPrezzo.pdb
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\FormattaPrezzo\obj\Debug\net10.0\FormattaPrezzo.genruntimeconfig.cache
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\FormattaPrezzo\obj\Debug\net10.0\ref\FormattaPrezzo.dll

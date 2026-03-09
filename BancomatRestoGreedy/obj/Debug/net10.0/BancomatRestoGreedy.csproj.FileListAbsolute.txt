@@ -1,0 +1,15 @@
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BancomatRestoGreedy\bin\Debug\net10.0\BancomatRestoGreedy.exe
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BancomatRestoGreedy\bin\Debug\net10.0\BancomatRestoGreedy.deps.json
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BancomatRestoGreedy\bin\Debug\net10.0\BancomatRestoGreedy.runtimeconfig.json
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BancomatRestoGreedy\bin\Debug\net10.0\BancomatRestoGreedy.dll
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BancomatRestoGreedy\bin\Debug\net10.0\BancomatRestoGreedy.pdb
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BancomatRestoGreedy\obj\Debug\net10.0\BancomatRestoGreedy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BancomatRestoGreedy\obj\Debug\net10.0\BancomatRestoGreedy.AssemblyInfoInputs.cache
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BancomatRestoGreedy\obj\Debug\net10.0\BancomatRestoGreedy.AssemblyInfo.cs
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BancomatRestoGreedy\obj\Debug\net10.0\BancomatRestoGreedy.csproj.CoreCompileInputs.cache
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BancomatRestoGreedy\obj\Debug\net10.0\BancomatRestoGreedy.sourcelink.json
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BancomatRestoGreedy\obj\Debug\net10.0\BancomatRestoGreedy.dll
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BancomatRestoGreedy\obj\Debug\net10.0\refint\BancomatRestoGreedy.dll
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BancomatRestoGreedy\obj\Debug\net10.0\BancomatRestoGreedy.pdb
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BancomatRestoGreedy\obj\Debug\net10.0\BancomatRestoGreedy.genruntimeconfig.cache
+C:\Users\TaoufikCharii\Desktop\Esercizi_Metodi\BancomatRestoGreedy\obj\Debug\net10.0\ref\BancomatRestoGreedy.dll
